@@ -7,7 +7,7 @@ In this repository I keep copies of certificates obtained upon completion of onl
 ---
 
 
-## *deeplearning.ai* specialization (5 Courses)
+## 1. Coursera: *deeplearning.ai* specialization (5 Courses)
 
 ![DLAI](images/Screen-Shot-2018-04-01-at-1.33.45-PM.png)
 
@@ -56,3 +56,26 @@ Ng. It consists of five courses, which cover the foundations of Deep Learning, h
     - how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs
     - application of sequence models to natural language problems, including text synthesis
     - application of sequence models to audio applications, including speech recognition and music synthesis
+
+
+## 2. Udemy: [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+
+
+This 20 hour course is a gentle but comprehensive introduction to SQL and MySQL.
+It covers such things as:
+
+- MySQL DBMS
+- SQL syntax
+- logical operators and string functions
+- dates and times
+- Analyse data using Aggregate Functions
+- SQL joins
+- How to create databases and interacting with existing databases
+- How to work with large datasets
+- Write complex SQL queries across multiple tables
+- Design and implement complex database schemas
+- Database triggers
+- Model real-world data and generate reports using SQL
+- Answer company performance or sales questions using data
+- Build a web app using NodeJS and MySQL
+- Write Javascript code to generate fake data sets
