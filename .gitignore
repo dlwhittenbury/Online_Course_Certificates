@@ -17,3 +17,6 @@ INPUT.md
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Ignore images folder
+/images

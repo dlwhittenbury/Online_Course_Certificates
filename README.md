@@ -4,12 +4,26 @@
 
 In this repository I keep copies of certificates obtained upon completion of online courses. Below is a short description of the courses I have completed.
 
+##### Table of Contents  
+
+- [Coursera](#coursera)
+
+  * [Deep Learning Specialization](#deep-learning-specialization)
+
+- [Udemy](#udemy)
+
+  * [The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert](#the-ultimate-mysql-bootcamp---go-from-sql-beginner-to-expert)
+
+  * [Microsoft Power BI - Business Intelligence for Beginners](#microsoft-power-bi---business-intelligence-for-beginners)
+
+
 ---
 
+# Coursera
 
-## 1. Coursera: *deeplearning.ai* specialization (5 Courses)
+## Deep Learning Specialization
 
-![DLAI](images/Screen-Shot-2018-04-01-at-1.33.45-PM.png)
+<!-- ![DLAI](images/Screen-Shot-2018-04-01-at-1.33.45-PM.png) -->
 
 
 
@@ -58,10 +72,13 @@ Ng. It consists of five courses, which cover the foundations of Deep Learning, h
     - application of sequence models to audio applications, including speech recognition and music synthesis
 
 
-## 2. Udemy: [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+
+# Udemy
 
 
-This 20 hour course is a gentle but comprehensive introduction to SQL and MySQL.
+## The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert
+
+[This 20 hour course](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) is a gentle but comprehensive introduction to SQL and MySQL.
 It covers such things as:
 
 - MySQL DBMS
@@ -79,3 +96,69 @@ It covers such things as:
 - Answer company performance or sales questions using data
 - Build a web app using NodeJS and MySQL
 - Write Javascript code to generate fake data sets
+
+
+
+
+## Microsoft Power BI - Business Intelligence for Beginners
+
+
+
+[This 32 hour course](https://www.udemy.com/course/business-data-analysis-using-microsoft-power-bi/) is a gentle but comprehensive introduction to Power BI.
+It covers such things as:
+
+- An introduction to Power BI Desktop and Power BI Service
+
+- Data analysis and business intelligence with Power BI
+
+- Import Data from many different sources: CSV, Excel, MS SQL Server, the web, etcetera.
+
+- Prep, clean and shape Data with Power BI
+
+- Dataflows
+
+- Visualisation with Power BI: bar charts, line charts, pie charts, stacked bar
+charts, clustered column charts, area charts , combo charts, scatter charts, treemap
+charts, funnel charts, cards and multi-row cards, gauge cards, KPIs, matrices, tables,
+text boxes, shapes, images, slicers, maps and custom visuals such as word clouds.
+
+- Filtering and highlighting
+
+- Visualisation interactions
+
+- Analytics
+
+- Creating and importing themes
+
+- Data modelling
+
+- OLTP vs OLAP
+
+- Normalisation and denormalisation. Star versus snowflake schemas.
+
+- Publishing and sharing reports
+
+- DAX
+
+- Various business intelligence projects
+
+- Personal and enterprise gateways
+
+  - On-premises gateways
+
+  - Personal versus enterprise gateways
+
+  - Install and configure personal and enterprise gateways
+
+  - Manage SQL Server data source through an enterprise gateway
+
+
+- Power BI Service
+
+  - Dashboards, reports, workspaces, Apps, datasets
+
+  - Sharing and collaboration
+
+    - Sharing dashboards, workspaces, Apps, and publishing to the web
+
+- Power BI best practices, tips and tricks

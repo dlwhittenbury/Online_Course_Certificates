@@ -1,0 +1,27 @@
+---
+documentclass: extarticle
+fontsize: 11pt
+
+Comment:  This is a comment intended to demonstrate
+          metadata that spans multiple lines, yet
+          is treated as a single value.
+
+title: 'Online Course Summary'
+
+author:
+- D. L. Whittenbury
+
+date: April, 2020
+colorlinks: true
+urlcolor: teal
+linkcolor: violet
+toccolor: purple
+filecolor: red
+citecolor: orange
+
+toc: false
+
+geometry:
+- margin=0.25in
+
+---
