@@ -19,4 +19,4 @@ INPUT.md
 .ipynb_checkpoints
 
 # Ignore images folder
-/images
+images/
