@@ -12,9 +12,13 @@ In this repository I keep copies of certificates obtained upon completion of onl
 
 - [Udemy](#udemy)
 
-  * [The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert](#the-ultimate-mysql-bootcamp---go-from-sql-beginner-to-expert)
+  * [DAX Data Analysis Expressions using Free Tools for Beginners](#DAX-Data-Analysis-Expressions-using-Free-Tools-for-Beginners)
 
   * [Microsoft Power BI - Business Intelligence for Beginners](#microsoft-power-bi---business-intelligence-for-beginners)
+
+  * [The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert](#the-ultimate-mysql-bootcamp---go-from-sql-beginner-to-expert)
+
+
 
 
 ---
@@ -76,26 +80,31 @@ Ng. It consists of five courses, which cover the foundations of Deep Learning, h
 # Udemy
 
 
-## The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert
 
-[This 20 hour course](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) is a gentle but comprehensive introduction to SQL and MySQL.
-It covers such things as:
 
-- MySQL DBMS
-- SQL syntax
-- logical operators and string functions
-- dates and times
-- Analyse data using Aggregate Functions
-- SQL joins
-- How to create databases and interacting with existing databases
-- How to work with large datasets
-- Write complex SQL queries across multiple tables
-- Design and implement complex database schemas
-- Database triggers
-- Model real-world data and generate reports using SQL
-- Answer company performance or sales questions using data
-- Build a web app using NodeJS and MySQL
-- Write Javascript code to generate fake data sets
+## DAX Data Analysis Expressions using Free Tools for Beginners
+
+[This 25 hour course](https://www.udemy.com/course/dax-data-analysis-expressions/)
+is an extension of the Microsoft Power BI - Business Intelligence for Beginners
+course I took.
+It covers beginner to advanced DAX (Data Analysis Expressions) using Power BI
+and SQL Server. The course is focussed on data analysis and Business
+Intelligence / Analytics scenarios. In this course, I learnt how to use
+DAX to analyse data, find patterns and trends in data using Power BI. The
+learned skills are also relevant for Excel and SQL Server Analysis Services. The
+course taught how to collect, clean, model and present data for any purpose. It
+covered topics such as:
+
+- DAX Basics
+- DAX Date and Time Functions
+- DAX Filter Functions
+- DAX Information Functions
+- DAX Logical Functions
+- DAX Text Functions
+- Dax Path Functions and Row Level Security
+- Math Trig and Stat Functions
+- DAX Time-Intelligence Functions
+- Advanced Time-Intelligence Scenarios
 
 
 
@@ -162,3 +171,26 @@ text boxes, shapes, images, slicers, maps and custom visuals such as word clouds
     - Sharing dashboards, workspaces, Apps, and publishing to the web
 
 - Power BI best practices, tips and tricks
+
+
+
+## The Ultimate MySQL Bootcamp - Go from SQL Beginner to Expert
+
+[This 20 hour course](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) is a gentle but comprehensive introduction to SQL and MySQL.
+It covers such things as:
+
+- MySQL DBMS
+- SQL syntax
+- logical operators and string functions
+- dates and times
+- Analyse data using Aggregate Functions
+- SQL joins
+- How to create databases and interacting with existing databases
+- How to work with large datasets
+- Write complex SQL queries across multiple tables
+- Design and implement complex database schemas
+- Database triggers
+- Model real-world data and generate reports using SQL
+- Answer company performance or sales questions using data
+- Build a web app using NodeJS and MySQL
+- Write Javascript code to generate fake data sets
